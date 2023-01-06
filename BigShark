@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T17:29:16.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="A3AIQZLHo3hIQpvS6NWE" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T17:30:04.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h9M3omoEVdWgGO5S114d" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1407" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,6 +181,17 @@
         </mxCell>
         <mxCell id="uuwq0cm2iImcVvBWT6r--12" value="Credit Bureau" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-428" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uuwq0cm2iImcVvBWT6r--17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuwq0cm2iImcVvBWT6r--13" target="uuwq0cm2iImcVvBWT6r--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuwq0cm2iImcVvBWT6r--18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuwq0cm2iImcVvBWT6r--13" target="uuwq0cm2iImcVvBWT6r--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuwq0cm2iImcVvBWT6r--19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uuwq0cm2iImcVvBWT6r--16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uuwq0cm2iImcVvBWT6r--13" value="Loanee" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-790" y="290" width="30" height="60" as="geometry" />
