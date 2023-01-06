@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T18:02:58.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UMtMcPWSOxlJ4FnMzY8r" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T18:03:39.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hU2DuXB75CCsqmMEIidg" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1324" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,9 +293,6 @@
         </mxCell>
         <mxCell id="uuwq0cm2iImcVvBWT6r--78" value="Credit Bureau" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-433" y="929" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uuwq0cm2iImcVvBWT6r--80" value="Instalment Payment" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-665" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uuwq0cm2iImcVvBWT6r--81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="uuwq0cm2iImcVvBWT6r--60" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
