@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T12:13:57.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9v9EelT3d1bMN0rX6Ckf" version="20.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-08T12:14:34.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5CtLOan9SG1JF7Vd4gGI" version="20.8.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -594,8 +594,8 @@
         <mxCell id="wL1WrVBKBiwJ9LZeM1WO-30" value="Consumer/Creditor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="60" y="245" width="30" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="wL1WrVBKBiwJ9LZeM1WO-33" value="ActorName" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="60" y="555" width="30" height="60" as="geometry" />
+        <mxCell id="wL1WrVBKBiwJ9LZeM1WO-33" value="Consumer/Creditor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
