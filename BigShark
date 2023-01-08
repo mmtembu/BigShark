@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T17:19:00.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I_OWAhk0SX2apnF6cgDk" version="20.8.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-08T17:24:14.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LhneQs0ztAFY2fCRd3Le" version="20.8.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="1876" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -858,10 +858,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UrLIxQILVEAtaBKxN6hd-3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Is client eligible for loan?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="544.82" y="780" width="150.37" height="140" as="geometry" />
+          <mxGeometry x="544.82" y="720" width="150.37" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-5" target="UrLIxQILVEAtaBKxN6hd-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UrLIxQILVEAtaBKxN6hd-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Select Minimum Amount for loan&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="990" width="120" height="50" as="geometry" />
+          <mxGeometry x="560.01" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UrLIxQILVEAtaBKxN6hd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-7" target="UrLIxQILVEAtaBKxN6hd-3">
           <mxGeometry relative="1" as="geometry" />
@@ -869,17 +872,35 @@
         <mxCell id="UrLIxQILVEAtaBKxN6hd-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Invoke 3rd party credit bureau service&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrLIxQILVEAtaBKxN6hd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-11">
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="490" as="targetPoint" />
+            <mxPoint x="900" y="750" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="900" y="850" />
-              <mxPoint x="900" y="490" />
+              <mxPoint x="820" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UrLIxQILVEAtaBKxN6hd-11" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Wait for elegibiliity&lt;/span&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="839.995" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="759.995" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-21" target="UrLIxQILVEAtaBKxN6hd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-21" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Wait a few minutes for approval&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="560.01" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-23" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Stop&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="580.01" y="1270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UrLIxQILVEAtaBKxN6hd-25" target="Fo0rzmdRopMMuKXq6Nv--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-25" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UrLIxQILVEAtaBKxN6hd-27" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Select date for starting with monthly payments&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="560.01" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
