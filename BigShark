@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T17:32:47.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="210FJaLPXCivE0wLDPde" version="20.8.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-08T17:34:10.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VBE7mNOMy32ORq_7mgTr" version="20.8.2" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="1871" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -909,7 +909,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3jBnBumFecn8QsaSjlSQ" name="Profile Set up">
-    <mxGraphModel dx="614" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="522" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -951,8 +951,20 @@
             <mxPoint x="10" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SLHU7AYsq5yjAsdpq_5o-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLHU7AYsq5yjAsdpq_5o-4" target="SLHU7AYsq5yjAsdpq_5o-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLHU7AYsq5yjAsdpq_5o-4" value="Profile Setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLHU7AYsq5yjAsdpq_5o-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SLHU7AYsq5yjAsdpq_5o-7" target="SLHU7AYsq5yjAsdpq_5o-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLHU7AYsq5yjAsdpq_5o-7" value="Fill in the missing details" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLHU7AYsq5yjAsdpq_5o-9" value="KYC Verification" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
