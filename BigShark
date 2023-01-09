@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T16:25:17.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IhDsbXfWpjopmJg44EyX" version="20.8.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-09T16:26:43.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QFoCLF78ZQunhCUpqKgP" version="20.8.3" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,18 +354,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vo1EgXPZsIpY1UKsaJcE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="130" as="targetPoint" />
+            <mxPoint x="361" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vo1EgXPZsIpY1UKsaJcE-1" value="Landing Page" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="100" height="50" as="geometry" />
+          <mxGeometry x="311" y="170" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-1" target="Ze-OIyEk1nkDVGGyTOgX-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="150" as="targetPoint" />
+            <mxPoint x="441" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="405" />
-              <mxPoint x="600" y="155" />
+              <mxPoint x="591" y="535" />
+              <mxPoint x="591" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -376,25 +376,25 @@
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-14" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-1" target="Ze-OIyEk1nkDVGGyTOgX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="374" y="520" as="targetPoint" />
+            <mxPoint x="365" y="650" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-1" value="Do i qualify to &lt;br&gt;send a request ?&amp;nbsp;" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="319.5" y="350" width="109" height="110" as="geometry" />
+          <mxGeometry x="310.5" y="480" width="109" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-6" target="Ze-OIyEk1nkDVGGyTOgX-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-6" value="Enter how much &lt;br&gt;I want to borrow" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="319.5" y="750" width="120" height="50" as="geometry" />
+          <mxGeometry x="310.5" y="880" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-7" target="Ze-OIyEk1nkDVGGyTOgX-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="150" as="targetPoint" />
+            <mxPoint x="441" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="469" y="260" />
-              <mxPoint x="469" y="170" />
+              <mxPoint x="460" y="390" />
+              <mxPoint x="460" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -412,28 +412,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-7" value="Does creditor&#39;s &lt;br&gt;stats appealing &lt;br&gt;to me?" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="299" y="220" width="150" height="80" as="geometry" />
+          <mxGeometry x="290" y="350" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-8" target="Ze-OIyEk1nkDVGGyTOgX-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-8" value="Scroll through creditors" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="304" y="130" width="140" height="50" as="geometry" />
+          <mxGeometry x="295" y="260" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-16" target="Ze-OIyEk1nkDVGGyTOgX-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="610" as="targetPoint" />
+            <mxPoint x="366" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-16" value="View their profile" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="324" y="520" width="100" height="50" as="geometry" />
+          <mxGeometry x="315" y="650" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.997;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-21" target="Ze-OIyEk1nkDVGGyTOgX-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="60" as="targetPoint" />
+            <mxPoint x="581" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="655" />
-              <mxPoint x="660" y="138" />
+              <mxPoint x="651" y="785" />
+              <mxPoint x="651" y="268" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,16 +446,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-21" value="Do i like the &lt;br&gt;creditor?" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="318.5" y="610" width="110" height="90" as="geometry" />
+          <mxGeometry x="309.5" y="740" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Ze-OIyEk1nkDVGGyTOgX-28" target="Ze-OIyEk1nkDVGGyTOgX-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-28" value="Send Borrow request" style="html=1;dashed=0;whitespace=wrap;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="314.5" y="840" width="130" height="50" as="geometry" />
+          <mxGeometry x="305.5" y="970" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ze-OIyEk1nkDVGGyTOgX-30" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;strokeWidth=5;perimeter=ellipsePerimeter;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="920" width="40" height="40" as="geometry" />
+          <mxGeometry x="350.5" y="1050" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT0ET1LC-pVyNPCZTq7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HAT0ET1LC-pVyNPCZTq7-1" target="vo1EgXPZsIpY1UKsaJcE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HAT0ET1LC-pVyNPCZTq7-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="321" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
