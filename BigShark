@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T16:55:13.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8hdYERQUauUGi3zE8tfB" version="20.8.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-01-09T17:06:20.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IeIckxcZbhcqXccguU8l" version="20.8.3" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1308,7 +1308,7 @@
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-3" target="qfdhYmYxeXtSxWQ3TOas-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-3" value="Switch to portfolio home screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-3" value="Switch to my profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-5">
@@ -1316,16 +1316,16 @@
             <mxPoint x="510" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-5" target="qfdhYmYxeXtSxWQ3TOas-17">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-18" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-5" target="qfdhYmYxeXtSxWQ3TOas-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-5" value="Do I have borrowers?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="100" height="100" as="geometry" />
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-5" value="Do I have a&lt;br&gt;&amp;nbsp;credit provider&lt;br&gt;&amp;nbsp;I own?&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-8" target="qfdhYmYxeXtSxWQ3TOas-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-8" value="You don&#39;t have existing borrowers yet.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-8" value="You have no borrowed any money yet&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-9" target="qfdhYmYxeXtSxWQ3TOas-1">
@@ -1336,38 +1336,118 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Mfjt-lmnShjXeBjfGbTV-4" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qfdhYmYxeXtSxWQ3TOas-16">
+          <mxGeometry x="-0.8" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-9" target="qfdhYmYxeXtSxWQ3TOas-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-9" value="Do you want to &lt;br&gt;start lending money &lt;br&gt;to others?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-9" value="Do you need some cash?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="650" y="370" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-17" target="qfdhYmYxeXtSxWQ3TOas-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-17" value="Select&amp;nbsp; a consumer i want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-17" value="Select&amp;nbsp; a Creditor I want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-19" target="qfdhYmYxeXtSxWQ3TOas-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfdhYmYxeXtSxWQ3TOas-19" target="Mfjt-lmnShjXeBjfGbTV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-19" value="I send a Message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-19" value="Select chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-21" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qfdhYmYxeXtSxWQ3TOas-23" value="Invoke Register as creditor Use case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qfdhYmYxeXtSxWQ3TOas-23" value="Invoke Select Preferred Creditor Use case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfjt-lmnShjXeBjfGbTV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mfjt-lmnShjXeBjfGbTV-1" target="qfdhYmYxeXtSxWQ3TOas-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfjt-lmnShjXeBjfGbTV-1" value="Send a chat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WZ19XwBtEEqyrG2tg7Nv" name="Page-10">
+  <diagram id="WZ19XwBtEEqyrG2tg7Nv" name="Creditor chat">
     <mxGraphModel dx="1674" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DNcmrADxdQMu294n86aU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-2" target="DNcmrADxdQMu294n86aU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-4" target="DNcmrADxdQMu294n86aU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-4" value="Landing Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-6" target="DNcmrADxdQMu294n86aU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-6" value="Switch to portfolio home screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-9" target="DNcmrADxdQMu294n86aU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-9" value="Do I have borrowers?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-11" target="DNcmrADxdQMu294n86aU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-11" value="You don&#39;t have existing borrowers yet.&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-14" target="DNcmrADxdQMu294n86aU-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-13" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-14" target="DNcmrADxdQMu294n86aU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-14" value="Do you want to &lt;br&gt;start lending money &lt;br&gt;to others?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-16" target="DNcmrADxdQMu294n86aU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-16" value="Select&amp;nbsp; a consumer i want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-18" target="DNcmrADxdQMu294n86aU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-18" value="I send a Message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-19" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNcmrADxdQMu294n86aU-20" value="Invoke Register as creditor Use case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
