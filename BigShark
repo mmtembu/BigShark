@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T17:21:59.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KG2ccBC16xc9_Bs9kxwN" version="20.8.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-01-09T17:23:16.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="o9rAzwsO0u9YI-DUP1px" version="20.8.3" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1413,7 +1413,7 @@
             <mxPoint x="400" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNcmrADxdQMu294n86aU-16" value="Select&amp;nbsp; a consumer i want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DNcmrADxdQMu294n86aU-16" value="Select&amp;nbsp; a consumer I want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DNcmrADxdQMu294n86aU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DNcmrADxdQMu294n86aU-18" target="DNcmrADxdQMu294n86aU-19">
