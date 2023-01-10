@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T19:40:01.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1K_bMkwt8oT4AQBwiBDN" version="20.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-01-10T19:40:21.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="b66099nK8xpUT_zDfi-E" version="20.8.3" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login/Register">
     <mxGraphModel dx="2501" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1210,7 +1210,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-17" value="Select&amp;nbsp; a Creditor I want to chat with" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qfdhYmYxeXtSxWQ3TOas-19" target="Mfjt-lmnShjXeBjfGbTV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1224,7 +1224,7 @@
           <mxGeometry x="360" y="830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qfdhYmYxeXtSxWQ3TOas-23" value="Invoke Loan Application use case" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="655" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mfjt-lmnShjXeBjfGbTV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mfjt-lmnShjXeBjfGbTV-1" target="qfdhYmYxeXtSxWQ3TOas-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
